@@ -4,7 +4,7 @@
 
 The purpose of this project is to serve as a repository of information for individuals seeking to build an individual first-aid kit (IFAK)
 
-The components listed below fit into a small bag that may be carried on the waste or attached to a pack.
+The components listed below fit into a small bag that may be carried on the waist or attached to a pack.
 
 ## Components
 
