@@ -8,7 +8,7 @@ The components listed below fit into a small bag that may be carried on the wais
 
 ![Individual First-Aid Kit (IFAK)](images/ifak.png)
 
-**THIS DOES NOT CONSTITUTE MEDICAL ADVICE. YOU SHOULD SEEK HELP IMMEDIATELY FROM A MEDICAL PROFESSIONAL**
+**THIS DOES NOT CONSTITUTE MEDICAL ADVICE. IF YOU ARE IN AN EMERGENCY, CONTACT EMERGENCY SERVICES IMMEDIATELY.**
 
 ## Components
 
