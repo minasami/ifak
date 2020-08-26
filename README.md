@@ -11,11 +11,11 @@ The components listed below fit into a small bag that may be carried on the wais
 | Category | Name | |
 | --- | --- | --- |
 | Airway | ARS Needle Decompression | ![ARS Needle Decompression](images/ars-needle-decompression.jpg) |
-| Airway | Hyfin Vent Chest Seal | |
-| Airway | Pre-lubricated Naso Airway | |
+| Airway | Hyfin® Vent Chest Seal | ![Hyfin® Vent Chest Seal](images/hyfin-vent-chest-seal.jpg) |
+| Airway | Pre-Lubricated Naso Airway | ![Pre-Lubricated Naso Airway](images/pre-lubricated-nasal-airway.jpg) |
 | Antihistamine | Benadryl | |
 | Antihistamine | Hydrocortisone Cream | |
-| Antiseptic | Alcohol Prep Pad | |
+| Antiseptic | Alcohol Prep Pad | ![Alcohol Prep Pad](images/sterile-alcohol-prep-pads.jpg) |
 | Antiseptic | Povidone Iodine | |
 | Antiseptic | Triple Antibiotic Ointment | |
 | Burn | Burn Gel w/ Lidocaine | |
