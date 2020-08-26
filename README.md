@@ -18,7 +18,7 @@ The components listed below fit into a small bag that may be carried on the wais
 | Antihistamine | Benadryl® |  |
 | Antihistamine | Hydrocortizone Cream | |
 | Antiseptic | Alcohol Prep Pad | ![Alcohol Prep Pad](images/sterile-alcohol-prep-pads.jpg) |
-| Antiseptic | Povidone Iodine | ![Alcohol Prep Pad](images/sterile-alcohol-prep-pads.jpg) |
+| Antiseptic | Povidone Iodine | ![Povidone Iodine](images/povidone-iodine.png) |
 | Antiseptic | Triple Antibiotic Ointment | |
 | Burn | Burn Gel w/ Lidocaine | |
 | Digestion | Pepto Bismol | |
