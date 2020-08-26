@@ -10,7 +10,7 @@ The components listed below fit into a small bag that may be carried on the wais
 
 | Category | Name | |
 | --- | --- | --- |
-| Airway | ARS Needle Decompression 3.25" | |
+| Airway | ARS Needle Decompression | ![ARS Needle Decompression](images/ars-needle-decompression.jpg) |
 | Airway | Hyfin Vent Chest Seal | |
 | Airway | Pre-lubricated Naso Airway | |
 | Antihistamine | Benadryl | |
