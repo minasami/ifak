@@ -8,8 +8,8 @@ The components listed below fit into a small bag that may be carried on the wais
 
 ## Components
 
-| Category | Name |
-| --- | --- |
+| Category | Name | |
+| --- | --- | --- |
 | Airway | ARS Needle Decompression 3.25" |
 | Airway | Hyfin Vent Chest Seal |
 | Airway | Pre-lubricated Naso Airway |
@@ -20,7 +20,7 @@ The components listed below fit into a small bag that may be carried on the wais
 | Antiseptic | Triple Antibiotic Ointment |
 | Burn | Burn Gel w/ Lidocaine |
 | Digestion | Pepto Bismol |
-| Hemorrhage | CAT Tourniquet |
+| Hemorrhage | CAT Tourniquet | ![CAT Tourniquet](images/cat-tourniquet.jpg) |
 | Hemorrhage | Compressed Crinkle Gauze |
 | Hemorrhage | Israeli Pressure Bandage |
 | Hydration | Liquid IV |
