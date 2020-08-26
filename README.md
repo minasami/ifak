@@ -10,41 +10,41 @@ The components listed below fit into a small bag that may be carried on the wais
 
 | Category | Name | |
 | --- | --- | --- |
-| Airway | ARS Needle Decompression 3.25" |
-| Airway | Hyfin Vent Chest Seal |
-| Airway | Pre-lubricated Naso Airway |
-| Antihistamine | Benadryl |
-| Antihistamine | Hydrocortisone Cream |
-| Antiseptic | Alcohol Prep Pad |
-| Antiseptic | Povidone Iodine |
-| Antiseptic | Triple Antibiotic Ointment |
-| Burn | Burn Gel w/ Lidocaine |
-| Digestion | Pepto Bismol |
+| Airway | ARS Needle Decompression 3.25" | |
+| Airway | Hyfin Vent Chest Seal | |
+| Airway | Pre-lubricated Naso Airway | |
+| Antihistamine | Benadryl | |
+| Antihistamine | Hydrocortisone Cream | |
+| Antiseptic | Alcohol Prep Pad | |
+| Antiseptic | Povidone Iodine | |
+| Antiseptic | Triple Antibiotic Ointment | |
+| Burn | Burn Gel w/ Lidocaine | |
+| Digestion | Pepto Bismol | |
 | Hemorrhage | CAT Tourniquet | ![CAT Tourniquet](images/cat-tourniquet.jpg) |
-| Hemorrhage | Compressed Crinkle Gauze |
-| Hemorrhage | Israeli Pressure Bandage |
-| Hydration | Liquid IV |
-| Medication | Advil |
-| Medication | Ammonia Towlette |
-| Medication | Aspirin |
-| Medication | Tylenol |
-| Miscellaneous | Black Sharpie |
-| Miscellaneous | Duct Tape |
-| Miscellaneous | Foil Blanket |
-| Miscellaneous | Medical Shears |
-| Miscellaneous | Nitrile Gloves |
-| Miscellaneous | Ziploc Bag |
-| Sprain/Fracture | SAM Splint |
-| Sprain/Fracture | SWAT-T Tourniquet |
-| Wound Care | Band Aid |
-| Wound Care | Hemostat |
-| Wound Care | Non-stick Pad |
-| Wound Care | Saline |
-| Wound Care | Self-adherent Gauze Bandage |
-| Wound Care | Surgical Glue |
-| Wound Care | Suture Set |
-| Wound Care | Tissue Forceps |
-| Wound Care | Triangular Bandage |
+| Hemorrhage | Compressed Gauze | ![Compressed Gauze](images/compressed-gauze.png) |
+| Hemorrhage | Israeli Pressure Bandage | |
+| Hydration | Liquid IV | |
+| Medication | Advil | |
+| Medication | Ammonia Towlette | |
+| Medication | Aspirin | |
+| Medication | Tylenol | |
+| Miscellaneous | Black Sharpie | |
+| Miscellaneous | Duct Tape | |
+| Miscellaneous | Foil Blanket | |
+| Miscellaneous | Medical Shears | |
+| Miscellaneous | Nitrile Gloves | |
+| Miscellaneous | Ziploc Bag | |
+| Sprain/Fracture | SAM Splint | |
+| Sprain/Fracture | SWAT-T Tourniquet | |
+| Wound Care | Band Aid | | 
+| Wound Care | Hemostat | |
+| Wound Care | Non-stick Pad | |
+| Wound Care | Saline | |
+| Wound Care | Self-adherent Gauze Bandage | |
+| Wound Care | Surgical Glue | |
+| Wound Care | Suture Set | |
+| Wound Care | Tissue Forceps | |
+| Wound Care | Triangular Bandage | |
 
 ## Contributing
 
