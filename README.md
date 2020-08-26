@@ -28,9 +28,23 @@ The components listed below fit into a small bag that may be carried on the wais
 | Medication | Ammonia Towlette |
 | Medication | Aspirin |
 | Medication | Tylenol |
+| Miscellaneous | Black Sharpie |
+| Miscellaneous | Duct Tape |
+| Miscellaneous | Foil Blanket |
+| Miscellaneous | Medical Shears |
+| Miscellaneous | Nitrile Gloves |
+| Miscellaneous | Ziploc Bag |
 | Sprain/Fracture | SAM Splint |
 | Sprain/Fracture | SWAT-T Tourniquet |
-| Wound Care | SWAT-T Tourniquet |
+| Wound Care | Band Aid |
+| Wound Care | Hemostat |
+| Wound Care | Non-stick Pad |
+| Wound Care | Saline |
+| Wound Care | Self-adherent Gauze Bandage |
+| Wound Care | Surgical Glue |
+| Wound Care | Suture Set |
+| Wound Care | Tissue Forceps |
+| Wound Care | Triangular Bandage |
 
 ## Contributing
 
