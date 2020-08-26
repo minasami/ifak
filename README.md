@@ -6,6 +6,8 @@ The purpose of this project is to serve as a repository of information for indiv
 
 The components listed below fit into a small bag that may be carried on the waist or attached to a pack.
 
+![Individual First-Aid Kit (IFAK)](images/ifak.png)
+
 **THIS DOES NOT CONSTITUTE MEDICAL ADVICE. YOU SHOULD SEEK HELP IMMEDIATELY FROM A MEDICAL PROFESSIONAL**
 
 ## Components
