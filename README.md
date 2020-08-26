@@ -16,7 +16,7 @@ The components listed below fit into a small bag that may be carried on the wast
 
 
 | Category | Name |
-| --- | --- | --- |
+| --- | --- |
 | Airway | ARS Needle Decompression 3.25" |
 | Airway | Hyfin Vent Chest Seal |
 | Airway | Pre-lubricated Naso Airway |
