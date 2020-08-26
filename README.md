@@ -1,19 +1,12 @@
 # [@americancontingency](https://github.com/americancontingency)/[ifak](https://github.com/americancontingency/ifak)
 
----
-
 ## Getting Started
-
----
 
 The purpose of this project is to serve as a repository of information for individuals seeking to build an individual first-aid kit (IFAK)
 
 The components listed below fit into a small bag that may be carried on the waste or attached to a pack.
 
 ## Components
-
---- 
-
 
 | Category | Name |
 | --- | --- |
@@ -40,8 +33,6 @@ The components listed below fit into a small bag that may be carried on the wast
 | Wound Care | SWAT-T Tourniquet |
 
 ## Contributing
-
----
 
 If you have a recommendation, please report an [issue](https://docs.github.com/en/github/managing-your-work-on-github/creating-an-issue) or submit a [pull request](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
