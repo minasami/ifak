@@ -22,7 +22,7 @@ The components listed below fit into a small bag that may be carried on the wais
 | Digestion | Pepto Bismol | |
 | Hemorrhage | CAT Tourniquet | ![CAT Tourniquet](images/cat-tourniquet.jpg) |
 | Hemorrhage | Compressed Gauze | ![Compressed Gauze](images/compressed-gauze.png) |
-| Hemorrhage | Israeli Pressure Bandage | |
+| Hemorrhage | Israeli Pressure Bandage | ![Israeli Pressure Bandage](images/israeli-bandage.jpg) |
 | Hydration | Liquid IV | |
 | Medication | Advil | |
 | Medication | Ammonia Towlette | |
