@@ -30,25 +30,25 @@ The components listed below fit into a small bag that may be carried on the wais
 | Hydration | Liquid IV® | ![Liquid IV®](images/liquid-iv.jpg) |
 | Medication | Advil® | ![Advil®](images/advil.jpg) |
 | Medication | Ammonia Towlette | ![Ammonia Towlette](images/ammonia-towlette.jpg) |
-| Medication | Aspirin | |
-| Medication | Tylenol® | |
-| Miscellaneous | Black Sharpie | |
-| Miscellaneous | Duct Tape | |
-| Miscellaneous | Foil Blanket | |
-| Miscellaneous | Medical Shears | |
-| Miscellaneous | Nitrile Gloves | |
-| Miscellaneous | Ziploc Bag | |
+| Medication | Aspirin | ![Aspirin](images/aspirin.jpg) |
+| Medication | Tylenol® | ![Tylenol®](images/tylenol.jpeg) |
+| Miscellaneous | Black Sharpie | ![Black Sharpie](images/sharpie.jpeg) |
+| Miscellaneous | Duct Tape | ![Duct Tape](images/duct-tape.jpeg) |
+| Miscellaneous | Foil Blanket | ![Foil Blank](images/foil-blanket.jpg) |
+| Miscellaneous | Medical Shears | ![Medical Shears](images/medical-shears.jpeg) |
+| Miscellaneous | Nitrile Gloves | ![Nitrile Gloves](images/nitrile-gloves.jpeg) |
+| Miscellaneous | Ziploc Bag | ![Ziploc Bag](images/ziploc-bag.jpg) |
 | Sprain/Fracture | SAM® Splint | ![SAM® Splint](images/sam-splint.jpg) |
-| Sprain/Fracture | SWAT-T Tourniquet | |
-| Wound Care | Band Aid® | | 
-| Wound Care | Hemostat | |
-| Wound Care | Non-stick Pad | |
-| Wound Care | Saline | |
-| Wound Care | Self-adherent Gauze Bandage | |
-| Wound Care | Surgical Glue | |
-| Wound Care | Suture Set | |
-| Wound Care | Tissue Forceps | |
-| Wound Care | Triangular Bandage | |
+| Sprain/Fracture | SWAT-T Tourniquet | ![SWAT-T Tourniquet](images/swat-t.jpg) |
+| Wound Care | Band Aid® | ![Band Aid®](images/band-aid.jpg) |
+| Wound Care | Hemostat | ![Hemostat](images/hemostat.jpg) |
+| Wound Care | Non-stick Pad | ![Non-Stick Pad](images/non-stick-pads.jpg) |
+| Wound Care | Saline | ![Saline](images/saline.png) |
+| Wound Care | Self-adherent Gauze Bandage | ![Self-adherent Gauze Bandage](images/self-adherent-gauze.jpeg) |
+| Wound Care | Surgical Glue | ![Surgical Glue](images/surgical-glue.jpeg) |
+| Wound Care | Suture Set | ![Suture Set](images/suture-kit.jpg) |
+| Wound Care | Tissue Forceps | ![Tissue Forceps](images/tissue-forceps.jpg) |
+| Wound Care | Triangular Bandage | ![Triangular Bandage](images/triangular-bandage.gif) |
 
 ## Contributing
 
